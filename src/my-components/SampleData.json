@@ -1,0 +1,75 @@
+[
+    {
+      "id": 1,
+      "name": "Can anyone recommend them from personal Experience?",
+      "messages": [
+        {
+          "id": 101,
+          "username": "Alice",
+          "content": "Yes they're great!",
+          "timestamp": "2024-04-01 10:00 AM"
+        },
+        {
+          "id": 102,
+          "username": "Bob",
+          "content": "Yeah nah they helped me repair my device easily.",
+          "timestamp": "2024-04-01 10:05 AM"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "I live rurally, will I have to pay extra?",
+      "messages": [
+        {
+          "id": 201,
+          "username": "Charlie",
+          "content": "Don't know",
+          "timestamp": "2024-04-02 09:30 AM"
+        },
+        {
+          "id": 202,
+          "username": "Dana",
+          "content": "Not a helpful response Charlie",
+          "timestamp": "2024-04-02 09:45 AM"
+        },
+        {
+          "id": 203,
+          "username": "Eve",
+          "content": "Yes I live about an hour from my nearest Shop and I didn't have to pay extra",
+          "timestamp": "2024-04-02 10:00 AM"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "I dropped my phone in the ocean, will they fix it?",
+      "messages": [
+        {
+          "id": 301,
+          "username": "Frank",
+          "content": "How deep did it go?",
+          "timestamp": "2024-04-03 11:15 AM"
+        },
+        {
+          "id": 302,
+          "username": "Grace",
+          "content": "About 50m",
+          "timestamp": "2024-04-03 11:30 AM"
+        },
+        {
+          "id": 303,
+          "username": "Heidi",
+          "content": "Yeah nah that's screwed, but give it a go anyway",
+          "timestamp": "2024-04-03 11:45 AM"
+        },
+        {
+          "id": 304,
+          "username": "Grace",
+          "content": "You wouldn't Believe it but they fixed it!",
+          "timestamp": "2024-04-03 12:00 PM"
+        }
+      ]
+    }
+  ]
+  
