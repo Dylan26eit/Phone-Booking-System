@@ -1,15 +1,19 @@
 {
   "files": {
     "main.css": "/Phone-Booking-System/static/css/main.e6c13ad2.css",
-    "main.js": "/Phone-Booking-System/static/js/main.40d18da3.js",
+    "main.js": "/Phone-Booking-System/static/js/main.fadc5844.js",
     "static/js/453.42ca2cce.chunk.js": "/Phone-Booking-System/static/js/453.42ca2cce.chunk.js",
+    "static/media/Image4.png": "/Phone-Booking-System/static/media/Image4.ec50e2691dff2c53269e.png",
+    "static/media/Image3.png": "/Phone-Booking-System/static/media/Image3.9a40e3a158e99b4be4ff.png",
+    "static/media/Image2.png": "/Phone-Booking-System/static/media/Image2.18184c1d943a25362735.png",
+    "static/media/Image1.png": "/Phone-Booking-System/static/media/Image1.74a04693da3aa1081202.png",
     "index.html": "/Phone-Booking-System/index.html",
     "main.e6c13ad2.css.map": "/Phone-Booking-System/static/css/main.e6c13ad2.css.map",
-    "main.40d18da3.js.map": "/Phone-Booking-System/static/js/main.40d18da3.js.map",
+    "main.fadc5844.js.map": "/Phone-Booking-System/static/js/main.fadc5844.js.map",
     "453.42ca2cce.chunk.js.map": "/Phone-Booking-System/static/js/453.42ca2cce.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.40d18da3.js"
+    "static/js/main.fadc5844.js"
   ]
 }
