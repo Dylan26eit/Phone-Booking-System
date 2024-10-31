@@ -1,5 +1,5 @@
 {
-  "homepage": "https://Dylan26eit.github.io/Phone-Booking-system",
+  "homepage": "https://Dylan26eit.github.io/Phone-Booking-System",
   "name": "phone-booking-system",
   "version": "0.1.0",
   "private": true,
@@ -14,7 +14,9 @@
     "react-dom": "^18.3.1",
     "react-router-dom": "^6.26.2",
     "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4"
+    "web-vitals": "^2.1.4",
+    "webpack": "^5.95.0",
+    "webpack-cli": "^5.1.4"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -22,7 +24,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build" 
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [

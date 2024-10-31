@@ -2,6 +2,11 @@ import Questions from './faqs.json';
 import { useState } from 'react';
 import AutoSlideshow from './AutoSlideshow';
 import ManualSlideshow from './ManualSlideshow';
+import image1 from './images/Image1.png';
+import image2 from './images/Image2.png';
+import image3 from './images/Image3.png';
+import image4 from './images/Image4.png';
+
 
 function FAQ() {
   const [enteredKeywords, setEnteredKeywords] = useState('');
@@ -12,10 +17,10 @@ function FAQ() {
   let id = 0;
 
   const images = [
-    { src: '/images/Image1.png', caption: 'Iphone' },
-    { src: '/images/Image2.png', caption: 'Samsung' },
-    { src: '/images/Image3.png', caption: 'Google Pixel' },
-    { src: '/images/Image4.png', caption: 'Nokia' },
+    { src: image1, caption: 'Iphone' },
+    { src: image2, caption: 'Samsung' },
+    { src: image3, caption: 'Google Pixel' },
+    { src: image4, caption: 'Nokia' },
   ];
 
   return (
